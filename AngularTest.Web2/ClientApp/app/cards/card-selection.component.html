@@ -1,0 +1,6 @@
+<div class="error" *ngIf="errorMessage">{{errorMessage}}</div>
+<div class="row">
+    <a *ngFor="let card of cards | async" [routerLink]="['/card-wait', card.id]" class="col m4 s6 l3 ">
+        <my-card    [card]="card" (click)="select(card)"></my-card>
+    </a>
+</div>

@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id":0,
+            "text":"0",
+            "order":0,
+            "color":" blue-grey lighten-5"
+        },
+        {
+            "id":1,
+            "text":"½",
+            "order":0.5,
+            "color":" blue-grey lighten-5"
+        },
+        {
+            "id":2,
+            "text":"1",
+            "order":1,
+            "color":" blue-grey lighten-4"
+        },
+        {
+            "id":3,
+            "text":"2",
+            "order":2,
+            "color":" blue-grey lighten-4"
+        },
+        {
+            "id":4,
+            "text":"3",
+            "order":3,
+            "color":" blue-grey lighten-3"
+        },
+        {
+            "id":5,
+            "text":"5",
+            "order":5,
+            "color":" blue-grey lighten-3"
+        },
+        {
+            "id":6,
+            "text":"8",
+            "order":8,
+            "color":" blue-grey lighten-2"
+        },
+        {
+            "id":7,
+            "text":"13",
+            "order":13,
+            "color":" blue-grey lighten-2"
+        },
+        {
+            "id":8,
+            "text":"20",
+            "order":20,
+            "color":" blue-grey lighten-1"
+        },
+        {
+            "id":9,
+            "text":"40",
+            "order":40,
+            "color":" blue-grey lighten-1"
+        },
+        {
+            "id":10,
+            "text":"100",
+            "order":100,
+            "color":" blue-grey"
+        },
+        {
+            "id":11,
+            "text":"∞",
+            "order":10000,
+            "color":" blue-grey darken-3"
+        },
+        {
+            "id":12,
+            "text":"???",
+            "order":12000,
+            "color":" blue-grey darken-3"
+        },
+        {
+            "id":13,
+            "text":"Coffee",
+            "order":13000,
+            "color":" blue-grey darken-3"
+        }
+    ]
+}
